@@ -40,3 +40,16 @@ div.bordeoutset{
     border-bottom: 2px dashed #9999ff;
     border-left: 3px double #666666;
 }
+
+#capa1, #capa2{
+    border-radius: 15px;
+}
+
+#capa3{
+    -web-border-radius: 15px;
+    padding: 10px;
+}
+
+#capa4{
+    -webkit-border-radius: 15px 27px 100px 0px;
+}
